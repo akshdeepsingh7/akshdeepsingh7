@@ -25,9 +25,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshdeepsingh7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshdeepsingh7&layout=compact&theme=radical)  
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshdeepsingh7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshdeepsingh7&layout=compact&theme=buefy&hide_border=true" /></a> |
 [![GitHub Streak](https://streak-stats.demolab.com?user=akshdeepsingh7)](https://git.io/streak-stats)
-
 </div>
