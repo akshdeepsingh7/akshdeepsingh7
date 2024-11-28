@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Akshdeep Singh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshdeep--singh)  
-![Profile Views](https://komarev.com/ghpvc/?username=akshdeepsingh7&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=akshdeepsingh7&color=brightgreen&style=for-the-badge)
 
 **Student | Web Developer & Data Analyst**
 
