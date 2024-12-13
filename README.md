@@ -40,5 +40,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshdeepsingh7&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshdeepsingh7&layout=compact)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshdeepsingh7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshdeepsingh7)](https://git.io/streak-stats)
 </div>
