@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Akshdeep Singh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshdeep--singh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshdeep--singh) [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Akshdeep_Singh7)
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshdeepsingh7&color=brightgreen&style=for-the-badge-square)
 
 **Student | Web Developer & Data Analyst**
