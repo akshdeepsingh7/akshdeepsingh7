@@ -5,14 +5,13 @@
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/akshdeep--singh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshdeep Singh on LinkedIn">
+  <a href="https://linkedin.com/in/akshdeep--singh">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/Akshdeep_Singh7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Akshdeep Singh on X">
+  <a href="https://x.com/Akshdeep_Singh7">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=akshdeepsingh7&color=0e75b6&style=for-the-badge" alt="GitHub profile views">
+  <img src="https://komarev.com/ghpvc/?username=akshdeepsingh7&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
