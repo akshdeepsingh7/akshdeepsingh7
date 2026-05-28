@@ -70,4 +70,6 @@
 
 ### 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshdeepsingh7&show_icons=true&count_private=true&hide_border=true" height="150" alt="Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshdeepsingh7&layout=compact&hide_border=true" height="150" alt="Languages" />
+<p align="center">
+  <img src="https://github-widget.pages.dev/api/widget?username=akshdeepsingh7&layout=bar&theme=light&limit=6&exclude_forks=true" alt="Top Languages" />
+</p>
