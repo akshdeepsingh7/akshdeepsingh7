@@ -69,7 +69,4 @@
 ---
 
 ### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-widget.pages.dev/api/widget?username=akshdeepsingh7&layout=bar&theme=light&limit=6&exclude_forks=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-widget.pages.dev/?username=akshdeepsingh7&layout=bar&theme=light&limit=6&exclude_forks=true)
