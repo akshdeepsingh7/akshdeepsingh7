@@ -67,6 +67,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📈 GitHub Statistics
-![Top Languages](https://github-widget.pages.dev/?username=akshdeepsingh7&layout=bar&theme=light&limit=6&exclude_forks=true)
